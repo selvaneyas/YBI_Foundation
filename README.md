@@ -1,6 +1,7 @@
 # YBI Foundation Repository
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.8+-blue.svg) ![Status](https://img.shields.io/badge/status-learning-green.svg)
+<!-- ![License](https://img.shields.io/badge/license-MIT-blue.svg) -->
+ ![Python](https://img.shields.io/badge/python-3.8+-blue.svg) ![Status](https://img.shields.io/badge/status-learning-green.svg)
 
 This repository is a comprehensive collection of learning resources, projects, and notebooks focused on Artificial Intelligence (AI), Machine Learning (ML), Data Visualization, Python programming, and Generative AI. It is organized into several thematic folders, each containing relevant materials to help learners and practitioners deepen their understanding and skills in these areas.
 
@@ -117,8 +118,7 @@ To explore the materials, open the relevant Jupyter notebooks in your preferred 
 If you find this repository useful, please consider giving it a ⭐ on GitHub. It helps more people discover and benefit from this work.
 
 
-## 📄 License
+## License
 This repository is intended for educational purposes.
-The code and materials are released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
